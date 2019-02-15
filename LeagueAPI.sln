@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormsUI", "FormsUI\FormsUI.csproj", "{CDF70076-4142-48CC-A09C-2305CB89FBD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIHelperDLL", "APIHelperDLL\APIHelperDLL.csproj", "{9D36BE9D-072F-440E-812E-EAAD542CA945}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LeagueInstaller", "LeagueInstaller\LeagueInstaller.vdproj", "{F397D8FD-FE6C-439A-ABCD-C1059EC2A93D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF70076-4142-48CC-A09C-2305CB89FBD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF70076-4142-48CC-A09C-2305CB89FBD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF70076-4142-48CC-A09C-2305CB89FBD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF70076-4142-48CC-A09C-2305CB89FBD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D36BE9D-072F-440E-812E-EAAD542CA945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D36BE9D-072F-440E-812E-EAAD542CA945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D36BE9D-072F-440E-812E-EAAD542CA945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D36BE9D-072F-440E-812E-EAAD542CA945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F397D8FD-FE6C-439A-ABCD-C1059EC2A93D}.Debug|Any CPU.ActiveCfg = Debug
+		{F397D8FD-FE6C-439A-ABCD-C1059EC2A93D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B93DA60-927B-48A2-98D6-BCE3E84DEFD1}
+	EndGlobalSection
+EndGlobal
