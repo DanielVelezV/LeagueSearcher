@@ -24,6 +24,8 @@ namespace APIHelperDLL.Model
     public class ParticipantsDTO
     {
         public ParticipantStatsDto stats { get; set; }
+        public int Spell1ID { get; set; }
+        public int Spell2ID { get; set; }
     }
 
     public class ParticipantStatsDto
